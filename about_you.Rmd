@@ -1,5 +1,5 @@
 ---
-title: "First Knit"
+title: "Wesley Cruz"
 author: "Your Name"
 output: 
   html_document:
@@ -17,6 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
+I attended high school at learn 4 life where i also graduated from.I find both math and english to be a hard subject for me because i get frustrated when i dont understand anything.The best subject i did good in high school was physical education.  
   
 
      
